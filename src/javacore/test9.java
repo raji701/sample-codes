@@ -9,7 +9,7 @@ public class test9 {
 //        Write a program that takes a month number (1 to 12) and a year as input and prints the number of days in that month using a switch statement. ( Note: use switch case )
 
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter a month (1 to 12): ");
+        System.out.print("Enter a month (1 to 12): "); // please enter a number
         int month = sc.nextInt();
         System.out.print("Enter an year: ");
         int year = sc.nextInt();
